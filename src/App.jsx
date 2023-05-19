@@ -37,7 +37,7 @@ const App = () => (
         <div className="flex justify-center ">
           <div className="text-center text-xl font-bold text-white underline">
             <img
-              src="images/html.png"
+              src="public/html.png"
               alt=""
               className="w-40 h-44 mt-5  rounded-full "
             />
@@ -45,7 +45,7 @@ const App = () => (
           </div>
           <div className="text-center text-xl font-bold text-white underline">
             <img
-              src="images/css.png"
+              src="public/css.png"
               alt=""
               className="w-40 h-44 mt-5   rounded-full"
             />
@@ -53,7 +53,7 @@ const App = () => (
           </div>
           <div className="text-center text-xl font-bold text-white underline">
             <img
-              src="images/tailwind.png"
+              src="public/tailwind.png"
               alt=""
               className="w-40 h-44 mt-5  rounded-full "
             />
@@ -61,7 +61,7 @@ const App = () => (
           </div>
           <div className="text-center text-xl font-bold text-white underline">
             <img
-              src="images/js.png"
+              src="public/js.png"
               alt=""
               className="w-44 mt-3 h-44  rounded-full"
             />
@@ -69,7 +69,7 @@ const App = () => (
           </div>
           <div className=" w-40 my-auto text-center text-xl font-bold text-white underline">
             <img
-              src="images/react.png"
+              src="public/react.png"
               alt=""
               className="w-44  h-44  rounded-full "
             />
