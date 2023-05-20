@@ -89,6 +89,12 @@ const App = () => (
         <span className="bg-yellow-500 cursor-pointer  py-5 px-8 rounded-md text-xl font-bold">
           <a href="https://app-todo-ts.netlify.app/"> TODO APP</a>
         </span>
+        <span className="bg-yellow-500 cursor-pointer  py-5 px-8 rounded-md text-xl font-bold">
+          <a href="https://bg-imageslider.netlify.app/"> Image-slider</a>
+        </span>
+        <span className="bg-yellow-500 cursor-pointer  py-5 px-8 rounded-md text-xl font-bold">
+          <a href="https://nk-show.netlify.app/"> TV-show</a>
+        </span>
       </div>
     </div>
     <div className=" mx-12 p-8 border-4 border-yellow-500 cursor-pointer ">
